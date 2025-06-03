@@ -4,14 +4,14 @@
   - 🌱 I’m currently learning Ethical Hacking and Penetration Testing</br>
   - 💬 Ask me about Risks, Vulnerabilities and Threats</br>
   - 📫 How to reach me amirdakadeson@gmail.com</br>
-  - 👨‍💻 All of my details are available at <a href="https://amirdakadesan.vercel.app/" target="_blank">View my Portfolio</a></br>
-  - 📄 Know about my experiences <a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="_blank">View my Resume</a></br>
+  - 👨‍💻 All of my details are available at <a href="https://amirdakadesan.vercel.app/" target="blank">View my Portfolio</a></br>
+  - 📄 Know about my experiences <a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="blank">View my Resume</a></br>
 </br>
 
 <div> 
-  <a href="https://www.linkedin.com/in/amirdakadesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href = "mailto:amirdakadeson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://github.com/kades953" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/amirdakadesan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>&nbsp;
+  <a href = "mailto:amirdakadeson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>&nbsp;
+  <a href="https://github.com/kades953" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>&nbsp;
 </div>
 
 <h3 align="left">Connect with me:</h3>
