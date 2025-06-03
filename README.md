@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Ethical Hacking
 - 🌱 I’m currently learning Ethical Hacking in TryHackMe platform
 - 📫 How to reach me, You can explore more about me and contact details in my portfolio. [Explore now..!](https://amirdakadesan.vercel.app)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not right now
 
 <!---
