@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
   <h1 align="center">Hi 👋, I'm Amirda Kadesan</h1>
   <h3 align="center">Cybersecurity Professional</h3>
-  - 🌱 I’m currently learning <strong>Ethical Hacking and Penetration Testing</strong></br>
-  - 💬 Ask me about <strong>Risks, Vulnerabilities and Threats</strong></br>
-  - 📫 How to reach me <strong>amirdakadeson@gmail.com</strong></br>
-  - 👨‍💻 All of my details are available at <strong><a href="https://amirdakadesan.vercel.app/" target="_blank">View my Portfolio</a></strong></br>
-  - 📄 Know about my experiences <strong><a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="_blank">View my Resume</a></strong></br>
+  - 🌱 I’m currently learning Ethical Hacking and Penetration Testing</br>
+  - 💬 Ask me about Risks, Vulnerabilities and Threats</br>
+  - 📫 How to reach me amirdakadeson@gmail.com</br>
+  - 👨‍💻 All of my details are available at <a href="https://amirdakadesan.vercel.app/" target="_blank">View my Portfolio</a></br>
+  - 📄 Know about my experiences <a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="_blank">View my Resume</a></br>
 </br>
 
 <div> 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amirdakadesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/amirdakadesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
   <a href = "mailto:amirdakadeson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://github.com/kades953" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>&nbsp;
 </div>
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/amirdakadesan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirdakadesan/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/amirdakadesan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirdakadesan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
