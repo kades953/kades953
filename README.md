@@ -1,11 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
   <h1 align="center">Hi 👋, I'm Amirda Kadesan</h1>
   <h3 align="center">Cybersecurity Professional</h3>
-  - 🌱 I’m currently learning Ethical Hacking and Penetration Testing</br>
-  - 💬 Ask me about Risks, Vulnerabilities and Threats</br>
-  - 📫 How to reach me amirdakadeson@gmail.com</br>
-  - 👨‍💻 All of my details are available at <a href="https://amirdakadesan.vercel.app/" target="blank">View my Portfolio</a></br>
-  - 📄 Know about my experiences <a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="blank">View my Resume</a></br>
+  <ul>
+  <li> 🌱 I’m currently learning Ethical Hacking and Penetration Testing</li>
+  <li> 💬 Ask me about Risks, Vulnerabilities and Threats</li>
+  <li> 📫 How to reach me amirdakadeson@gmail.com</li>
+  <li> 👨‍💻 All of my details are available at <a href="https://amirdakadesan.vercel.app/" target="blank">View my Portfolio</a></li>
+  <li> 📄 Know about my experiences <a href="https://amirdakadesan.vercel.app/Amirda_kadesan_V_Resume.pdf" target="blank">View my Resume</a></li>
+  </ul>
 </br>
 
 <div> 
